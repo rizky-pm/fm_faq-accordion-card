@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/QuestionAnswer.css"],"names":[],"mappings":"AAAA,eACI,UAAY,CACZ,6BAA+B,CAC/B,uBAAyB,CACzB,sBACJ","file":"main.5cc468bc.chunk.css","sourcesContent":[".active.active {\r\n    opacity: 0.8;\r\n    transform: translateY(0.625rem); /* 10px */\r\n    transition: all ease 0.5s;\r\n    margin-bottom: 0.9375rem; /* 15px */\r\n}\r\n"]}

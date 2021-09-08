@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fm_faq-accordion-card/static/css/main.5cc468bc.chunk.css",
+    "main.js": "/fm_faq-accordion-card/static/js/main.35eecc3d.chunk.js",
+    "main.js.map": "/fm_faq-accordion-card/static/js/main.35eecc3d.chunk.js.map",
+    "runtime-main.js": "/fm_faq-accordion-card/static/js/runtime-main.5b6d3c85.js",
+    "runtime-main.js.map": "/fm_faq-accordion-card/static/js/runtime-main.5b6d3c85.js.map",
+    "static/js/2.5625e0fc.chunk.js": "/fm_faq-accordion-card/static/js/2.5625e0fc.chunk.js",
+    "static/js/2.5625e0fc.chunk.js.map": "/fm_faq-accordion-card/static/js/2.5625e0fc.chunk.js.map",
+    "index.html": "/fm_faq-accordion-card/index.html",
+    "static/css/main.5cc468bc.chunk.css.map": "/fm_faq-accordion-card/static/css/main.5cc468bc.chunk.css.map",
+    "static/js/2.5625e0fc.chunk.js.LICENSE.txt": "/fm_faq-accordion-card/static/js/2.5625e0fc.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.f51e07a2.svg": "/fm_faq-accordion-card/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/bg-pattern-mobile.55aee912.svg": "/fm_faq-accordion-card/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/fm_faq-accordion-card/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/fm_faq-accordion-card/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/fm_faq-accordion-card/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/fm_faq-accordion-card/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b6d3c85.js",
+    "static/js/2.5625e0fc.chunk.js",
+    "static/css/main.5cc468bc.chunk.css",
+    "static/js/main.35eecc3d.chunk.js"
+  ]
+}
